@@ -84,13 +84,15 @@
 
 </html>
 
-
-
-
-
-
-
-
+[calci.html](https://github.com/user-attachments/files/22796344/calci.html)
+[eat.js](https://github.com/user-attachments/files/22796347/eat.js)[wert.js](https://github.com/user-attachments/files/22796358/wert.js)
+[weather.html](https://github.com/user-attachments/files/22796357/weather.html)
+[weat.css](https://github.com/user-attachments/files/22796356/weat.css)
+[style.css](https://github.com/user-attachments/files/22796355/style.css)
+[sql.html](https://github.com/user-attachments/files/22796354/sql.html)
+[script.js](https://github.com/user-attachments/files/22796352/script.js)
+[red.js](https://github.com/user-attachments/files/22796350/red.js)
+[index.html](https://github.com/user-attachments/files/22796349/index.html)
 
 
 
