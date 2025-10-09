@@ -1,5 +1,9 @@
 
 [index.html](https://github.com/user-attachments/files/22796181/index.html)
+<img width="500" height="500" alt="Download_3d_weather_icon_day_for_free-removebg-preview" src="https://github.com/user-attachments/assets/50356f9f-fe1e-465e-aeb1-fd4a89ce167b" />
+![gemini](https://github.com/user-attachments/assets/7cbb18b4-dce9-480e-a6d8-df0ea35b78a7)
+<img width="3297" height="3296" alt="Logo" src="https://github.com/user-attachments/assets/9d850ed9-99f3-4235-ba50-e3334d2a7373" /><img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/61c17115-0cf6-4174-9e6d-a1c4b3f2c341" />
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,3 +83,14 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
