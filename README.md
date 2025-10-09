@@ -13,12 +13,10 @@
 </head>
 
 <body>
-
     <nav class="navbar">
         <h3 class="navbar__logo">HISTORICAL FACT BOT</h3>
         <button class="navbar__button" id="themeToggler"><i class='bx bx-sun'></i></button>
     </nav>
-
     <header class="header">
         <div class="header__title">
             <h1>Hello, There!</h1>
@@ -51,8 +49,7 @@
             </div>
             <div class="suggests__item">
                 <p class="suggests__item-text">
-                    say about the history
-                    
+                    say about the history 
                 </p>
                 <div class="suggests__item-icon">
                     <i class='bx bx-wrench'></i>
@@ -60,9 +57,7 @@
             </div>
         </div>
     </header>
-
     <section class="chats"></section>
-
     <section class="prompt">
         <form action="#" class="prompt__form" novalidate>
             <div class="prompt__input-wrapper">
@@ -76,12 +71,8 @@
             </div>
         </form>
         <p class="prompt__disclaim">
-            
         </p>
     </section>
-
-
-
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
     <script src="red.js"></script>
