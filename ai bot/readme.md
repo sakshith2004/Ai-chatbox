@@ -19,7 +19,5 @@ Includes calculator, SQL demo, and weather app with interactive features.
 - SQL info/demo page
 - Responsive design with CSS
 
-## ▶ Run locally
-1. Download the repo.
-2. Open `index.html` in a browser.
+
 
